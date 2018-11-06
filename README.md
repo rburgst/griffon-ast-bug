@@ -86,4 +86,6 @@ Caused by: java.lang.NullPointerException: Cannot invoke method evaluate() on nu
         at org.example.AstBugModel.postConstructInitialization(AstBugModel.groovy)
         at griffon.util.GriffonClassUtils.lambda$invokeAnnotatedMethod$0(GriffonClassUtils.java:3276)
         ... 14 more
-        ```
+```
+
+See github issue: https://github.com/griffon/griffon/issues/303
